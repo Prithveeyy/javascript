@@ -1,10 +1,8 @@
-alert('Hello World !')
-alert('This is my first javascript program !')
-alert('This is a trial for alert function')
-alert('My name is prithvee')
-alert('I  started learning javascript on 4/3/2024')
-alert('I use udemy to learn javascript')
-alert('Javascript is a fun language')
-alert('Javascript is easier than c')
-alert('I want to learn javascript aniamtions')
-alert('I want to create apple website replica but with another product')
+    alert('Hello World!');
+    alert('My first JavaScript program!');
+    alert('This is a trial for the alert function.');
+    alert('My name is Prithvee.');
+    alert('I started learning JavaScript on 4/3/2024.');
+    alert('JavaScript is fun');
+    alert(' and my goal is to create a replica of the Apple website, but featuring other products.');
+
