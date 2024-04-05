@@ -1,0 +1,9 @@
+CODE        OUTPUT
+\'          single quote
+\"          Double quote
+\\          Backslash
+\n          New line
+\r          Carriage retun (A carriage return in JavaScript (\r) is a special character that moves the cursor to the beginning of the current line when included in a string.)
+\t          Tab
+\b          Backslash
+\f          From feed ( \f in JavaScript is a whitespace character used to advance the output to the next page or form feed printer mechanism.)
